@@ -1,7 +1,5 @@
 # MemoriceV2_CodingTube
 
-# Memorice_CodingTube
-
 Desafío Frontend
 
 Del canal de Youtube: CodingTube
